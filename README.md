@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RizwanRumi
-- 👀 I’m interested in Programming, Software development, Computer vision, Deep learning
-- 🌱 I’m currently learning Computer Vision and Deep Neural Network
+- 👀 I’m interested in Programming, Software development, AI
+- 🌱 I’m currently learning Computer Vision, Machine learning and Deep Learning
 - 💞️ I’m looking for a Master Thesis in the field of Software Development, Computer vision and Deep learning
 - 📫 How to reach me -> rizwan.cse33@gmail.com
 
