@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RizwanRumi
 - 👀 I’m interested in Programming, Software development, AI
-- 🌱 I’m currently learning Software Development in C#
+- 🌱 I’m currently practicing Software Development in C#, C++
 - 💞️ I’m looking for a full-time Software Development Job
 - 📫 How to reach me -> rizwan.cse33@gmail.com
 
