@@ -1,7 +1,7 @@
 - 👋 Hello! Glad to meet you.
-- 👀 I’m interested in Programming, Software development, AI
-- 🌱 I’m currently practicing Software Development in C#, C++
-- 💞️ I’m looking for a full-time Software Development Job
+- 👀 I’m interested in Programming, Software development, and Artificial Intelligence  
+- 🌱 I’m practicing Software Development in C#, C++, Python
+- 💞️ I’m currently open for work and employment opportunities (Hybrid/Remote, and Relocation)
 - 📫 How to reach me -> rizwan.cse33@gmail.com
 
 <!---
