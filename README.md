@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RizwanRumi
+- 👋 Hello! Glad to meet you.
 - 👀 I’m interested in Programming, Software development, AI
 - 🌱 I’m currently practicing Software Development in C#, C++
 - 💞️ I’m looking for a full-time Software Development Job
